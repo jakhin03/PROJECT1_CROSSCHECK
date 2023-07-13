@@ -1,5 +1,5 @@
 # PROJECT1_CROSSCHECK
-Group 12 - folder 94
+Group 12 - folder 94\n
 kiem tra ma nguon
 
 # SOURCE DESCRIPTION
