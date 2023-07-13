@@ -1,5 +1,6 @@
 # PROJECT1_CROSSCHECK
-kiểm tra mã nguồn
+Group 12 - folder 94
+kiem tra ma nguon
 
 # SOURCE DESCRIPTION
 * Chương trình quản lý phần mềm quét virus ClamAV trên linux
